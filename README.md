@@ -1,9 +1,3 @@
-# Laptop-Price-Prediction
-
-Here is a **clean, professional, emoji-free README** suitable for GitHub:
-
----
-
 # Laptop Price Predictor App
 
 This project is a Streamlit-based web application that predicts laptop prices using a machine learning model trained on a dataset of approximately 1200 laptops. The application allows users to input various laptop specifications and receive an estimated price based on the trained model.
